@@ -1,0 +1,6 @@
+{
+  "name": "Fun BMS Charts",
+  "symbol": "FUN",
+  "level_order": ["FUN1"],
+  "data_url": "https://delilahdavenport.github.io/FunBMSCharts/data.json"
+}

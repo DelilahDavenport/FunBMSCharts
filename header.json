@@ -2,10 +2,16 @@
   "name": "Charts I find fun",
   "symbol": "☆",
   "level_order": [
-    "Warmup",
+    "Easy Warmup",
+    "Slow / Wider Warmup",
+    "Fast / Chudstream Warmup",
+    "Lower Jack Charts",
+    "Upper Jack Charts",
+    "Chordtarded Therapy",
     "Fun Charts",
     "Hard Charts",
-    "Jay Try These"
+    "Jay Try These",
+    "Taka S Prac"
   ],
   "data_url": "https://delilahdavenport.github.io/FunBMSCharts/data.json"
 }
